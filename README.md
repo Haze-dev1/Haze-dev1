@@ -1,19 +1,15 @@
 <h2>Hi, I'm Devansh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<div style="display: flex; justify-content: space-between; align-items: flex-start;">
-  <pre style="width: 60%; background-color:rgba(36, 41, 47, 1); padding: 10px; border-radius: 5px;">
+
+<pre style="background-color:rgba(36, 41, 47, 1); color: white; padding: 10px; border-radius: 5px; width: 60%; overflow-x: auto;">
 const devansh = {
   name: "Devansh",
-  education: "Currently pursuing a degree in Computer Science",
+  education: "Currently pursuing a degree in Computer Science and Business systems",
   location: "India",
-  learning: ["React", "Machine Learning", "Data Structures", "Competitive Programming"],
-  competitiveProgramming: "Codechef 2*",
+  learning: ["DBMS", "COA", "OS", "DS"],
   hobbies: ["Reading", "Anime", "Gaming", "Tech Exploring"],
-  discord: "Devansh#1234"
+  discord: "justafriendlyperson10"
 }
-  </pre>
-  <img align="right" src="https://i.pinimg.com/564x/97/cb/a6/97cba6edbe6f76c76b56397cab0bc187.jpg" alt="Anime Image" width="250"/>
-</div>
-
+</pre>
 
 ---
 
@@ -52,5 +48,3 @@ const devansh = {
 </p>
 
 ---
-
-🎮 **Fun Fact**: I love connecting with people, so if you want to chat about coding, anime, or anything tech-related, hit me up anytime! 😄
