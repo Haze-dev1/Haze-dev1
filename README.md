@@ -16,6 +16,7 @@ const devansh = {
 ### Contact Me:
 - 📧 Email: [devanshpalsapure11@gmail.com](mailto:devanshpalsapure11@gmail.com)
 - 🔗 LinkedIn: [Devansh's LinkedIn](www.linkedin.com/in/devansh-palsapure-b44851299)
+- Linktree: https://linktr.ee/Haze_dev1
 
 ---
 
